@@ -1,0 +1,5 @@
+﻿  Rectangle.cpp
+C:\البرامج بتاعتي\RectangleEXbyTwoFilesClassAndConstructor\RectangleEXbyTwoFilesClassAndConstructor\Rectangle.cpp(32,12): error C2512: 'Rectangle': no appropriate default constructor available
+C:\البرامج بتاعتي\RectangleEXbyTwoFilesClassAndConstructor\RectangleEXbyTwoFilesClassAndConstructor\Rectangle.h(4,7): message : see declaration of 'Rectangle'
+  Source.cpp
+  Generating Code...
