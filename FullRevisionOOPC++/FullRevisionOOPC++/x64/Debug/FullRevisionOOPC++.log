@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\البرامج بتاعتي\FullRevisionOOPC++\FullRevisionOOPC++\Source.cpp(84,42): warning C4305: 'argument': truncation from 'double' to 'float'
+  FullRevisionOOPC++.vcxproj -> C:\البرامج بتاعتي\FullRevisionOOPC++\x64\Debug\FullRevisionOOPC++.exe

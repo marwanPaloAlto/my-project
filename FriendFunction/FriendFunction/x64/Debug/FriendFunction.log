@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\البرامج بتاعتي\FriendFunction\FriendFunction\Source.cpp(72,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  FriendFunction.vcxproj -> C:\البرامج بتاعتي\FriendFunction\x64\Debug\FriendFunction.exe
