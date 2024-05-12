@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\البرامج بتاعتي\ArrayFundamentals\ArrayFundamentals\Source.cpp(16,36): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  ArrayFundamentals.vcxproj -> C:\البرامج بتاعتي\ArrayFundamentals\x64\Debug\ArrayFundamentals.exe
