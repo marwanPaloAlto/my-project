@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\البرامج بتاعتي\FunctionExample\FunctionExample\Source.cpp(7,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  FunctionExample.vcxproj -> C:\البرامج بتاعتي\FunctionExample\x64\Debug\FunctionExample.exe
