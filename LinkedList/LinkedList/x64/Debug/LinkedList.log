@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\البرامج بتاعتي\LinkedList\LinkedList\Source.cpp(204,6): warning C4101: 'newvalue': unreferenced local variable
+  LinkedList.vcxproj -> C:\البرامج بتاعتي\LinkedList\x64\Debug\LinkedList.exe

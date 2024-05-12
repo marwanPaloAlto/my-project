@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\البرامج بتاعتي\InvokingFuctionInsideFunction\InvokingFuctionInsideFunction\Source.cpp(25,25): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  InvokingFuctionInsideFunction.vcxproj -> C:\البرامج بتاعتي\InvokingFuctionInsideFunction\x64\Debug\InvokingFuctionInsideFunction.exe

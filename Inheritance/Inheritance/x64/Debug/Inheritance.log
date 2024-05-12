@@ -1,0 +1,5 @@
+﻿  PostGraduatedStudent.cpp
+  Source2.cpp
+C:\البرامج بتاعتي\Inheritance\Inheritance\Source2.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Inheritance.vcxproj -> C:\البرامج بتاعتي\Inheritance\x64\Debug\Inheritance.exe
